@@ -1,1 +1,1 @@
-# sistema_riego_automatizado
+# Sistema de Riego Automatizado con Arduino
